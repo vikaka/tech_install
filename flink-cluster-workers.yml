@@ -1,0 +1,11 @@
+purchase_type: on_demand
+subnet_id:  subnet-e6d7e983
+price: 0.13
+num_instances: 3
+key_name: insight_vishesh
+security_group_ids:sg-7ceadb02
+instance_type: m4.large
+tag_name: flink-cluster
+vol_size: 100
+role: worker
+use_eips: true
